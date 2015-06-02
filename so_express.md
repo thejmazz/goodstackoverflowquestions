@@ -26,6 +26,7 @@ This is you define your middlewares:
 module.exports = {
     
 }
+~~~
 
 Express: How to pass app-instance to routes from a different file?
 http://stackoverflow.com/questions/10090414/express-how-to-pass-app-instance-to-routes-from-a-different-file
